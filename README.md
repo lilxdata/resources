@@ -18,3 +18,10 @@ https://ncses.nsf.gov/pubs/nsf19304/digest/field-of-degree-women
 https://modelviewculture.com/pieces/i-didn-t-want-to-lean-out
 
 https://www.buzzfeednews.com/article/bfopinion/race-genetics-david-reich
+
+# Books 
+
+# Academic Literature
+
+# Definitions 
+
