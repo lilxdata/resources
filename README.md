@@ -1,5 +1,9 @@
 # Resources on diversity / feminism / inclusion in STEM
 
+# Gender Bias in Open Source 
+
+https://code.likeagirl.io/gender-bias-in-open-source-d1deda7dec28
+
 # On being an ally:
 http://juliepagano.com/blog/2014/05/10/so-you-want-to-be-an-ally/
 
