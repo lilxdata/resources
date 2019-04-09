@@ -22,6 +22,9 @@ header {
 	font-weight: bold;
 	font-size: 2rem;
 	border-bottom: 8px solid #F7CAC9;
+	background-color: #F7CAC9;
+	color: #FFFFFF;
+	padding: 10px;
 }
 
 main {

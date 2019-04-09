@@ -1,7 +1,7 @@
 # This is how we will construct this page; out of the below listed variables and partials.
 # Cuttlebelle recognizes partials if they end with ".md" and that their path exists inside your content folder
 
-title: Resources        # The title of the page
+title: Inclusivity in STEM        # The title of the page
 
 header:                # Our header part of the layout
   - /_shared/header.md # This is the header and we got it from another folder we use to share partials

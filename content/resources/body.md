@@ -1,29 +1,35 @@
-# Gender Bias in Open Source 
+## _Learn about the issue_
 
-https://code.likeagirl.io/gender-bias-in-open-source-d1deda7dec28
+### The numbers
 
-# On being an ally:
-http://juliepagano.com/blog/2014/05/10/so-you-want-to-be-an-ally/
+[REPORT: Women, Minorities, and Persons with Disabilities in Science and Engineering](https://ncses.nsf.gov/pubs/nsf19304/digest/field-of-degree-women)
 
-https://maleallies.com/
+[Gender Bias in Open Source](https://code.likeagirl.io/gender-bias-in-open-source-d1deda7dec28)
 
-https://everydayfeminism.com/2013/11/things-allies-need-to-know/
+### Anecdotes 
 
-https://www.thedailybeast.com/techs-male-feminists-arent-helping
+[Why I Left, How I Left, and What It Would Have Taken to Keep Me in STEM](https://modelviewculture.com/pieces/i-didn-t-want-to-lean-out)
 
-http://xyonline.net/content/tools-white-guys-who-are-working-social-change-and-other-people-socialized-society-based
+### What _you_ can do
 
-# Statistics 
-https://ncses.nsf.gov/pubs/nsf19304/digest/field-of-degree-women
+[So you want to be an ally](http://juliepagano.com/blog/2014/05/10/so-you-want-to-be-an-ally/)
 
-# Perspectives 
-https://modelviewculture.com/pieces/i-didn-t-want-to-lean-out
+[Better Allies](https://maleallies.com/)
 
-https://www.buzzfeednews.com/article/bfopinion/race-genetics-david-reich
+[Things allies need to know](https://everydayfeminism.com/2013/11/things-allies-need-to-know/)
 
-# Books 
+[Tools for White Guys who are Working for Social Change](http://xyonline.net/content/tools-white-guys-who-are-working-social-change-and-other-people-socialized-society-based)
 
-# Academic Literature
+### What _not_ to do
 
-# Definitions 
+[Tech's male feminists aren't helping](https://www.thedailybeast.com/techs-male-feminists-arent-helping)
+
+[How Not to Talk About Race and Genetics](https://www.buzzfeednews.com/article/bfopinion/race-genetics-david-reich)
+
+ ### Further reading
+ _books_ 
+
+_Academic Literature_
+
+_Definitions_ 
 

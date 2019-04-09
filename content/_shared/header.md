@@ -1,1 +1,2 @@
-Resources on diversity / feminism / inclusion in STEM
+## Inclusivity in STEM 
+##### _what the problem is, and how you can help_
