@@ -6,6 +6,9 @@ title: Inclusivity in STEM        # The title of the page
 header:                # Our header part of the layout
   - /_shared/header.md # This is the header and we got it from another folder we use to share partials
 
+nav: 
+  - test
+
 main:                  # Our main part of the layout
   - /resources/body.md            # This partial is located inside the same folder as this index.yml
 

@@ -5,7 +5,7 @@ import React from 'react';
 /**
  * The page layout component
  */
-const Page = ({ title, stylesheet, header, main, footer, script, _relativeURL, _ID }) => (
+const Page = ({ title, stylesheet, header, nav, main, footer, script, _relativeURL, _ID }) => (
 	<html>
 	<head>
 		<title> { title }</title>
@@ -24,6 +24,7 @@ const Page = ({ title, stylesheet, header, main, footer, script, _relativeURL, _
 		<div className="top">
 			<header role="banner">
 				{ header }
+				{ nav }
 			</header>
 
 			<main>
