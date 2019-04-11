@@ -1,2 +1,2 @@
-## Inclusivity in STEM 
-##### _what the problem is, and how you can help_
+## Inclusivity in STEM
+[THE NUMBERS    ](localhost:8080/resources/nums) [ANECDOTES](localhost:8080/resources/anecdotes) [WHAT YOU CAN DO](localhost:8080/resources/allies) [WHAT NOT TO DO](localhost:8080/resources/nono)
