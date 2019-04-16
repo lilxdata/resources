@@ -15,6 +15,8 @@ https://www.thedailybeast.com/techs-male-feminists-arent-helping
 
 http://xyonline.net/content/tools-white-guys-who-are-working-social-change-and-other-people-socialized-society-based
 
+https://journals.plos.org/ploscompbiol/article?id=10.1371/journal.pcbi.1003903
+
 # Statistics 
 https://ncses.nsf.gov/pubs/nsf19304/digest/field-of-degree-women
 
