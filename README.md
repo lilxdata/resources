@@ -26,6 +26,9 @@ https://www.buzzfeednews.com/article/bfopinion/race-genetics-david-reich
 # Books 
 
 # Academic Literature
+https://www.cfa.harvard.edu/~srugheimer/Women_in_STEM_Resources.html
+
+https://journals.plos.org/ploscompbiol/article?id=10.1371/journal.pcbi.1003903
 
 # Definitions 
 
