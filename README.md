@@ -23,6 +23,8 @@ https://modelviewculture.com/pieces/i-didn-t-want-to-lean-out
 
 https://www.buzzfeednews.com/article/bfopinion/race-genetics-david-reich
 
+https://cen.acs.org/careers/graduate-school/How-to-combat-impostor-syndrome/97/i19
+
 # Books 
 
 # Academic Literature
